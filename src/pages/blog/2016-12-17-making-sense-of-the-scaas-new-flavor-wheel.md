@@ -4,12 +4,12 @@ title: mdファイル書き換えテスト
 date: 2016-12-17T15:04:10.000Z
 description: これはmdファイル書き換えテストです．
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/oi000036.jpg
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/oi000036.jpg)
 
 # **本文書き換えテスト**
 
